@@ -1,2 +1,5 @@
 #addition
-#x=a+b
+x=a+b
+#
+#substraction
+x=a-b
