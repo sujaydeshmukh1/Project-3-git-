@@ -1,2 +1,2 @@
 # Project-3-git-
-Sujay shell example project 
+List of all aws resources
